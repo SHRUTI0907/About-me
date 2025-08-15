@@ -18,7 +18,7 @@ I'm passionate about pushing the boundaries of data science. My recent projects 
 
 ## My Toolkit 🛠️
 Languages that speak my language:
-- Python (my first love)
+- Python
 - SQL 
 - HTML
 - C/C++
